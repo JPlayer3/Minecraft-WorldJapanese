@@ -1,0 +1,9 @@
+{
+	"modmenu.descriptionTranslation.cem": "リソースパック内の.jemと.jpmファイルで定義されたカスタムモデルをゲームにロードできるようにします。",
+	"config.cem.use_optifine_folder": "\"assets/minecraft/optifine/cem\"を使用しますか？",
+	"config.cem.use_optifine_folder.description": "assets/minecraft/optifine/cem,\nからCEMモデルが読み込まれます。\nこれはoptifineが行うこととまったく同じです。\nこれを有効にするには、リソース（F3 + T）を再読み込みします。",
+	"config.cem.use_new_model_creation_fix": "モデル作成修正を使用しますか？",
+	"config.cem.use_new_model_creation_fix.description": "これにより、アニメーション化時にMinecraftが\nモデルパーツを\n直接移動するのを防ぎます。 これにより、\nいくつかのモデルが壊れますが、他のモデルは修正されます。\n可能であれば使用してください。\nこれを有効にするには、\nリソース（F3 + T）をリロードしてください。",
+	"config.cem.use_old_animations": "古いアニメーションの実装を使用しますか？",
+	"config.cem.use_old_animations.description": "これにより、アニメーションの動作が\nCEMバージョン<=0.6.2から復元されます。\nおそらくこれをオフにします。"
+}
