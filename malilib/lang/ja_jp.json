@@ -1,0 +1,118 @@
+{
+    "malilib.config.comment.keybind_settings.activate_on": "キーの組み合わせを押すか離すと、キーバインドがアクティブになりますか",
+    "malilib.config.comment.keybind_settings.allow_empty_keybind": "空のキーバインドは有効ですか\n（常にアクティブであると見なされます）",
+    "malilib.config.comment.keybind_settings.allow_extra_keys": "キーバインドをアクティブにするために、追加のキーを保持できますか？",
+    "malilib.config.comment.keybind_settings.cancel_further": "キーバインドがアクティブになったときに、最後に押されたキーの\nそれ以上の（バニラ）処理をキャンセルします",
+    "malilib.config.comment.keybind_settings.context": "キーバインドはゲーム内またはGUI内でアクティブ化できますか",
+    "malilib.config.comment.keybind_settings.exclusive": "trueの場合、問題のキーバインドの前に\n他のキーバインドをアクティブにすることはできません。\nこのチェックは、すべてのキーが解放されるとリセットされます。",
+    "malilib.config.comment.keybind_settings.order_sensitive": "キーバインドキーを\n定義された特定の順序で押す必要があります",
+
+    "malilib.error.failed_to_create_directory": "ディレクトリ'%s'の作成に失敗しました",
+    "malilib.error.file_or_directory_already_exists": "ファイルまたはディレクトリ'%s'は既に存在します",
+    "malilib.error.invalid_directory": "無効なディレクトリ名'%s'",
+    "malilib.error.invalid_block_blacklist_entry": "ブラックリストまたはホワイトリストの無効なブロック：'%s'",
+    "malilib.error.invalid_item_blacklist_entry": "ブラックリストまたはホワイトリストのアイテム名が無効です：'%s'",
+
+    "malilib.gui.button.cancel": "キャンセル",
+    "malilib.gui.button.ok": "OK",
+    "malilib.gui.button.reset": "リセット",
+    "malilib.gui.button.reset.caps": "RESET",
+
+    "malilib.gui.button.render_layers_gui.axis": "軸: %s",
+    "malilib.gui.button.render_layers_gui.layers": "レイヤー: %s",
+    "malilib.gui.button.render_layers_gui.set_here": "ここに設定",
+
+    "malilib.gui.button.hover.directory_widget.create_directory": "新しいディレクトリを作成する",
+    "malilib.gui.button.hover.directory_widget.root": "ルート/ベースディレクトリへ",
+    "malilib.gui.button.hover.directory_widget.up": "親ディレクトリまで",
+    "malilib.gui.button.hover.hold_shift_for_info": "§oHoldShiftformoreinformation§r",
+    "malilib.gui.button.hover.plus_minus_tip": "左クリックで増加\n右クリックで減少\nShiftおよび/またはAltでステップサイズを増加",
+
+    "malilib.gui.label.block_snap.center": "センター",
+    "malilib.gui.label.block_snap.corner": "コーナー",
+    "malilib.gui.label.block_snap.none": "なし",
+
+    "malilib.gui.label_colored.off": "§cOFF§r",
+    "malilib.gui.label_colored.on": "§aON§r",
+
+    "malilib.gui.label.color_editor.current_color": "現在の色：",
+
+    "malilib.gui.label.keybind_settings.activate_on": "アクティベートオン",
+    "malilib.gui.label.keybind_settings.allow_empty_keybind": "空のキーバインドを許可する",
+    "malilib.gui.label.keybind_settings.allow_extra_keys": "追加のキーを許可する",
+    "malilib.gui.label.keybind_settings.cancel_further": "それ以上の処理をキャンセル",
+    "malilib.gui.label.keybind_settings.context": "コンテキスト",
+    "malilib.gui.label.keybind_settings.exclusive": "Exclusive",
+    "malilib.gui.label.keybind_settings.order_sensitive": "注文に敏感",
+    "malilib.gui.label.keybind_settings.tips": "-左クリックして構成\n-右クリックしてデフォルトにリセット",
+    "malilib.gui.label.keybind_settings.title_advanced_keybind_settings": "高度なキーバインド設定",
+
+    "malilib.gui.label.layer_mode.all": "すべて",
+    "malilib.gui.label.layer_mode.all_above": "上記すべて",
+    "malilib.gui.label.layer_mode.all_below": "以下すべて",
+    "malilib.gui.label.layer_mode.layer_range": "レイヤー範囲",
+    "malilib.gui.label.layer_mode.single_layer": "シングルレイヤー",
+
+    "malilib.label.message_output_type.none": "なし",
+    "malilib.label.message_output_type.actionbar": "アクションバー",
+    "malilib.label.message_output_type.message": "メッセージ",
+
+    "malilib.gui.label.no": "no",
+    "malilib.gui.label.yes": "yes",
+
+    "malilib.gui.label.render_layers.layer": "レイヤー",
+    "malilib.gui.label.render_layers.layer_max": "最大レイヤー",
+    "malilib.gui.label.render_layers.layer_min": "最小レイヤー",
+
+    "malilib.gui.title.all_hotkeys": "登録されているすべてのホットキー",
+    "malilib.gui.title.color_editor": "カラーエディター",
+    "malilib.gui.title.configs": "malilib Configs",
+    "malilib.gui.title.create_directory": "新しいディレクトリを作成する",
+    "malilib.gui.title.debug": "デバッグ",
+    "malilib.gui.title.generic": "Generic",
+    "malilib.gui.title.keybind_settings.advanced": "%sの高度なキーバインド設定",
+    "malilib.gui.title.string_list_edit": "'%s'の文字列リストを編集",
+
+    "malilib.hover.color_indicator.open_color_editor": "カラーエディターを開く",
+    "malilib.label.active_mode.always": "常に",
+    "malilib.label.active_mode.never": "Never",
+    "malilib.label.active_mode.with_key": "キー付き",
+
+    "malilib.label.key_action.both": "BOTH",
+    "malilib.label.key_action.press": "PRESS",
+    "malilib.label.key_action.release": "RELEASE",
+
+    "malilib.label.key_context.any": "Any",
+    "malilib.label.key_context.gui": "GUI",
+    "malilib.label.key_context.ingame": "ゲーム内",
+
+    "malilib.label.list_type.blacklist": "ブラックリスト",
+    "malilib.label.list_type.none": "なし",
+    "malilib.label.list_type.whitelist": "ホワイトリスト",
+
+    "malilib.label.alignment.top_left": "左上",
+    "malilib.label.alignment.top_right": "右上",
+    "malilib.label.alignment.bottom_left": "左下",
+    "malilib.label.alignment.bottom_right": "右下",
+    "malilib.label.alignment.center": "センター",
+
+    "malilib.message.directory_created": "ディレクトリ'%s'が作成されました",
+    "malilib.message.toggled": "Toggled%s%s",
+    "malilib.message.value.off": "OFF",
+    "malilib.message.value.on": "ON",
+
+    "malilib.message.formatting_code.error": "§c",
+    "malilib.message.formatting_code.info": "§f",
+    "malilib.message.formatting_code.success": "§a",
+    "malilib.message.formatting_code.warning": "§6",
+
+    "malilib.message.layer_range.range_max": "max",
+    "malilib.message.layer_range.range_min": "min",
+    "malilib.message.moved_layer_range": "レイヤー範囲全体を§a%s§r軸上で§a%s§r移動しました",
+    "malilib.message.moved_layer_range_boundary": "§a%s§r軸上の§a%s§rによって§a%s§rを移動したレイヤー範囲",
+    "malilib.message.moved_max_layer_to": "最大レイヤーを%sに移動しました",
+    "malilib.message.moved_min_layer_to": "最小レイヤーを%sに移動しました",
+    "malilib.message.set_layer_axis_to": "レイヤー軸を%sに設定",
+    "malilib.message.set_layer_mode_to": "レイヤーモードを%sに設定",
+    "malilib.message.set_layer_to": "レイヤーを%sに設定"
+}
